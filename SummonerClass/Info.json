@@ -1,0 +1,13 @@
+{
+	"Id": "SummonerClass",
+	"DisplayName": "SummonerClass",
+	"Author": "RealBazou",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "SummonerClass.dll",
+	"EntryMethod": "SummonerClass.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/RealBazou/SummonerClass/main/SummonerClass/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}

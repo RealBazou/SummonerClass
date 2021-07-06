@@ -1,0 +1,2 @@
+SummonerClass/&FancySkeletonTitle	Fancy Skeleton
+SummonerClass/&FancySkeletonDescription	I'm a fancy skeleton
