@@ -1,2 +1,16 @@
-SummonerClass/&FancySkeletonTitle	Fancy Skeleton
-SummonerClass/&FancySkeletonDescription	I'm a fancy skeleton
+Subclass/&SummonerSubclassPathTitle	Path
+Subclass/&SummonerSubclassPathDescription	Select a Summoner path
+Class/&SummonerClassTitle Summoner
+Class/&SummonerClassDescription Untold wonders and secrets exist for those skillful enough to discover them. Through cleverness, talent, and magic, these cunning few unravel the wiles of the world, becoming adept in the arts of persuasion, manipulation, and inspiration. Typically masters of one or many forms of artistry, Summoners possess an uncanny ability to know more than they should and use what they learn to keep themselves and their allies ever one step ahead of danger. Summoners are quick-witted and captivating, and their skills might lead them down many paths, be they gamblers or jacks-of-all-trades, scholars or performers, leaders or scoundrels, or even all of the above. For Summoners, every day brings its own opportunities, adventures, and challenges, and only by bucking the odds, knowing the most, and being the best might they claim the treasures of each.
+Feature/&SummonerWeaponProficiencyTitle Summoner Weapon Proficiencies
+Feature/&SummonerArmorProficiencyTitle Summoner Armor Proficiencies
+Feature/&SummonerToolsProficiencyTitle Summoner Tool Proficiencies
+Feature/&SummonerClassSkillPointPoolTitle	Summoner Skills
+Feature/&SummonerClassSkillPointPoolDescription	Choose any 3 skills
+Feature/&SummonerClassSpellcastingTitle Summoner Spellcasting
+Feature/&SummonerClassSpellcastingDescription Can cast spells from Summoner Spells list
+Stage/&SubclassSelectionStagePathHeader Summoner Paths
+Stage/&SubclassSelectionStagePathTitle Summoner Path
+Stage/&SubclassSelectionStagePathFeatures Path Features
+Subclass/&SummonerSubclassRubikusPathTitle	Rubikus Path
+Subclass/&SummonerSubclassRubikusPathDescription Summoners of the Rubikus Path know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these Summoners use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.

@@ -12,7 +12,7 @@
 		<Authors>Zappastuff</Authors>
 		<Company />
 		<Product />
-		<Copyright>Copyright © 2020</Copyright>
+		<Copyright>Copyright ï¿½ 2020</Copyright>
 		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Version>0.0.2</Version>
 	</PropertyGroup>
@@ -395,6 +395,10 @@
 		</Reference>
 		<Reference Include="SolastaModApi">
 			<HintPath>$([System.IO.Path]::Combine($(SolastaInstallDir), 'Mods\SolastaModApi\SolastaModApi.dll'))</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="SolastaModHelpers">
+			<HintPath>$([System.IO.Path]::Combine($(SolastaInstallDir), 'Mods\SolastaModHelpers\SolastaModHelpers.dll'))</HintPath>
 			<Private>False</Private>
 		</Reference>
 	</ItemGroup>
